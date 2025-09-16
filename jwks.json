@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "fhir_sandbox",
+      "n": "ua57iqI2RJ_wySIlqMJbtoWrP27Prr1lABm5ytTsyGGknaWOMbC2FoA8no3eiuUJyrkPIfzpRTOUQRT_ZVuBYDM9FLsK_YCvgMD3l_mV7KG4lBedBei5bW9-elAI7bzXmOYJDn2VGeGkphDZm0Jz6UaIBIhub4l3H-8nSWN-rJza4TgQfjr4AlAM7bl06QtBPQUeyGKudSjiuRR57CJubKPuzoquRH5n-g2EDfBVnnJSgqgqHppQbGwv-pE5WABS6arBjiFS-1X0yZnuDZxxeX-ce4bfZalcxD3y5nR75Ytn-AnDFnxGGn5em8sHsKwdCJB0nwWDdIYt6LmGov_SWw",
+      "e": "AQAB"
+    }
+  ]
+}
